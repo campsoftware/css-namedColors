@@ -1,6 +1,6 @@
 Named Colors CSS
 
-Bootstrap rocks but sometimes you need more colors. Named Colors are a great solution. 
+Sometimes you need more colors. Named Colors are a great solution. 
 
 Included are css files that can be included for Bootstrap like colors: 
 - color-bg-AliceBlue
